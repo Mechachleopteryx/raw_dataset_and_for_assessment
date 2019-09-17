@@ -11,9 +11,9 @@ The RNA Puzzles:
 * Puzzle 6: Adenosylcobalamin riboswitch
 * Puzzle 7: Varkud satellite ribozyme
 * Puzzle 8: SAM riboswitch
-* Puzzle 9: TBA
+* Puzzle 9: 5-hydroxytryptophan aptamer
 * Puzzle 10: T-box riboswitch and tRNA
-* Puzzle 11: TBA
+* Puzzle 11: 7SK
 * Puzzle 12: YdaO riboswitch
 * Puzzle 13: ZMP riboswitch
 * Puzzle 14: L-glutamine riboswitch (Free)
@@ -23,6 +23,9 @@ The RNA Puzzles:
 * Puzzle 17: Pistol ribozyme
 * Puzzle 18: Zika virus
 * Puzzle 19: Twister sister
+* Puzzle 20: Twister sister
+* Puzzle 21: Guanidine III Riboswitch
+* Puzzle 24: adenovirus virus-associated RNA
 
 # Citation
 
